@@ -1,7 +1,7 @@
 
-Project : Resume Screening NLP Project
+## Project : Resume Screening NLP Project
 
-Overview
+# Overview
 
 This project aims to automate the resume screening process using Natural Language Processing (NLP) techniques. It involves building a model to analyze resumes and categorize them based on predefined criteria.
 
