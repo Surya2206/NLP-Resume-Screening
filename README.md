@@ -1,11 +1,11 @@
 
-## Project : Resume Screening NLP Project
+# Project : Resume Screening NLP Project
 
-# Overview
+## Overview
 
 This project aims to automate the resume screening process using Natural Language Processing (NLP) techniques. It involves building a model to analyze resumes and categorize them based on predefined criteria.
 
-Project Structure
+## Project Structure
 
 * data/: Contains the dataset(s) used for training and testing the model.
 
@@ -17,7 +17,7 @@ Project Structure
 
 * requirements.txt: Lists all the dependencies required to run the project. Install them using pip install -r requirements.txt.
 
-Dependencies
+## Dependencies
 
 * Python 3.x
 * Pandas
@@ -25,7 +25,7 @@ Dependencies
 * NLTK (Natural Language Toolkit)
 [Any other libraries used in the project]
 
-Getting Started
+## Getting Started
 
 * Clone the repository:
 
@@ -37,15 +37,15 @@ Getting Started
 
 * Test the model on new resumes using the provided scripts or by integrating it into your application.
 
-Model Evaluation
+## Model Evaluation
 
 Include information on how the model was evaluated, metrics used, and the achieved performance.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 
 Give credit to any external libraries, datasets, or resources used in the project.
 
